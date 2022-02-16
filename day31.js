@@ -7,5 +7,5 @@ plus.addEventListener("click",function(){
 })
 minus.addEventListener("click",function(){
     counter.innerHTML=--c;
-})
+})//comment
 
